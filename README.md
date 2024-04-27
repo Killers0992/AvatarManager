@@ -2,7 +2,7 @@
 # AvatarManager
 
 <p align="center">
-<b><a href="https://killers0992.github.io/AwtterSDK">Add to VCC</a></b>
+<b><a href="https://killers0992.github.io/AvatarManager">Add to VCC</a></b>
 </p>
 
 Tool made for Unity Editor which helps with management of VRChat avatars!
