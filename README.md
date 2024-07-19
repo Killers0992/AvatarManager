@@ -9,5 +9,4 @@ Tool made for Unity Editor which helps with management of VRChat avatars!
 
 Packages
  - [Deuzear](https://github.com/Killers0992/AvatarManager-Deuzear)
-
-
+ - [Nardoragon](https://github.com/Killers0992/AvatarManager-Nardoragon)
